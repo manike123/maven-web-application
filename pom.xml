@@ -89,13 +89,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://ec2-18-191-122-106.us-east-2.compute.amazonaws.com:8081/repository/maven-web-application-master-release/</url>
+	      <name>maven-web-application-release</name>
+	      <url>http://ec2-18-191-122-106.us-east-2.compute.amazonaws.com:8081/repository/maven-web-application-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://ec2-18-191-122-106.us-east-2.compute.amazonaws.com:8081/repository/maven-web-application-master-snapshot/</url>
+	      <name>maven-web-application-snapshot</name>
+	      <url>http://ec2-18-191-122-106.us-east-2.compute.amazonaws.com:8081/repository/maven-web-application-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
