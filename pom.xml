@@ -89,13 +89,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>maven-web-application-release</name>
-	      <url>http://ec2-3-14-29-164.us-east-2.compute.amazonaws.com:8081/repository/maven-web-application-release/</url>
+	      <name>maven-project-release</name>
+	      <url>http://ec2-3-14-29-164.us-east-2.compute.amazonaws.com:8081/repository/maven-project-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>maven-web-application-snapshot</name>
-	      <url>http://ec2-3-14-29-164.us-east-2.compute.amazonaws.com:8081/repository/maven-web-application-snapshot/</url>
+	      <name>maven-project-snapshot</name>
+	      <url>http://ec2-3-14-29-164.us-east-2.compute.amazonaws.com:8081/repository/maven-project-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
